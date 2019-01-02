@@ -1,6 +1,6 @@
 package cn.ltx.springmvc.entity;
 
-public class TUser {
+public class User {
     private String id;
 
     private String username;
