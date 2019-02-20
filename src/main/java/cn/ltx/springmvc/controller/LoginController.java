@@ -14,6 +14,7 @@ public class LoginController {
         System.out.println(user.getSex());
         System.out.println(user.getId());
         System.out.println("login");
+        System.out.println("test");
         return "login";
     }
 
